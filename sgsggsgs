@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #87ceeb, #f7dcae); /* céu e areia */
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: #228B22; /* fundo tropical */
+  box-shadow: 0 0 10px #000;
+}
